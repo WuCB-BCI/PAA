@@ -1,4 +1,4 @@
-# Boundary-Aware Prototype-driven Adversarial Alignment for Cross-Corpus EEG Emotion Recognition
+# Boundary-Aware Prototype-driven Adversarial Alignment for Cross-Corpus EEG Emotion Recognition (+++The code is not perfect yet, it will be updated soon+++)
 *   A Pytorch implementation of our under reviewed paper "Boundary-Aware Prototype-driven Adversarial Alignment for Cross-Corpus EEG Emotion Recognition".
 # Installation
 *   Python 3.8
